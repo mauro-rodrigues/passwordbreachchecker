@@ -8,7 +8,7 @@ Using checkmypass_terminal.py you will need to input your passwords as such:
 
 > python3 checkmypass_terminal.py password1 password2 password3
 
-Using checkmypass_textfile.py you will need to inpout your passwords as such:
+Using checkmypass_textfile.py you will need to input your passwords as such:
 
 > python3 checkmypass_textfile.py passwords.txt
 
